@@ -1,4 +1,4 @@
-# TREINO DAS HABILIDADES ME HTML CSS
+# TREINO DAS HABILIDADES EM HTML CSS
 ### habilidades aprendidas:
 - basic elements: HTML, title, head, meta charset, body...
 - HTML comments (<!-- -->)
